@@ -32,10 +32,10 @@
  */
 
 html {
-  /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/ 
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   /* Menlo, Monaco, "Courier New", monospace; 
   This section changes body font within pages*/
-  font-family: "Helvetica Neue", sans-serif; /* I edited this */
+  /* "Helvetica Neue", sans-serif; */
 }
 @media (min-width: 48rem) {
   html {
@@ -61,6 +61,7 @@ html {
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #303059; /* this edits background color of sidebar */
+  font-family: "Helvetica Neue", sans-serif; /*trying to edit font for main name in sidebar*/
 }
 @media (min-width: 48rem) {
   .sidebar {
