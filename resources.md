@@ -8,7 +8,7 @@ title: Resources
 
 Projects and code made available on my [GitHub account](https://github.com/kjgilbert)
 
-&nbsp;&nbsp;&nbsp; [QstFstComp](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
+&nbsp;&nbsp;&nbsp; [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
     
     
 #### Teaching
