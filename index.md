@@ -7,4 +7,4 @@ I am an evolutionary biologist and population geneticist at the [University of B
 
 Contact me at kgilbert@zoology.ubc.ca
 
-[photo](https://github.com/kjgilbert/kjgilbert.github.io/master/extras/Photo.pngg)
+[photo](https://github.com/kjgilbert/kjgilbert.github.io/blob/master/extras/Photo.pngg)
