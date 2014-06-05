@@ -20,7 +20,7 @@ Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2
 
 #### Volunteering
 
-[American Society of Naturalists](http://www.amnat.org/home.html) (ASN) Graduate Student Council Member
+[American Society of Naturalists](http://www.amnat.org/home.html) Graduate Student Council Member
 
 Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
 
@@ -34,7 +34,7 @@ Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Researc
 
 #### Other
 
-Follow me on twitter [@kj_gilbert](https://twitter.com/kj_gilbert)
+You can follow me on twitter [@kj_gilbert](https://twitter.com/kj_gilbert)
 
 I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
 
