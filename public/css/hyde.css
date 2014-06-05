@@ -32,10 +32,10 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  /* Menlo, Monaco, "Courier New", monospace; 
-  This section changes body font within pages*/
+  font-family: "Helvetica Neue", sans-serif;   /* This section changes body font within pages*/
+  /* Menlo, Monaco, "Courier New", monospace; */
   /* "Helvetica Neue", sans-serif; */
+  /* "PT Sans", Helvetica, Arial, sans-serif */
 }
 @media (min-width: 48rem) {
   html {
