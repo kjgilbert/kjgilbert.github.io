@@ -15,10 +15,10 @@ author:
   name:           'Kim Gilbert'
   url:            http://www.zoology.ubc.ca/person/kgilbert
 
-paginate:         5
+#paginate:         5
 
 # Custom vars
-version:          2.0.0
+#version:          2.0.0
 
 github:
   repo:           https://github.com/kjgilbert/kjgilbert.github.io
