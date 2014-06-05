@@ -18,7 +18,7 @@ Evolutionary Biology (BIOL 336) - Fall 2012 & Spring 2013
 Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013
 
 
-##### Volunteering
+#### Volunteering
 
 [American Society of Naturalists](http://www.amnat.org/home.html) (ASN) Graduate Student Council Member
 
