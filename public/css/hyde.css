@@ -71,7 +71,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
-  font-family: "Helvetica Neue", sans-serif; /*trying to edit font for main name in sidebar*/
+    font-family: "Helvetica Neue", sans-serif; /*trying to edit font for main name in sidebar*/
   }
 }
 
@@ -85,7 +85,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /*font-family: "Abril Fatface", serif;*/
+  font-family: "Helvetica Neue", sans-serif; /* I edited this */
   font-size: 3.25rem;
 }
 
