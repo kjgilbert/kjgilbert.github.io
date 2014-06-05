@@ -37,7 +37,6 @@ html {
 @media (min-width: 48rem) {
   html {
     font-size: 16px;
-  font-family: "Helvetica Neue", sans-serif; /*trying to edit font for main name in sidebar*/
   }
 }
 @media (min-width: 58rem) {
@@ -68,6 +67,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+  font-family: "Helvetica Neue", sans-serif; /*trying to edit font for main name in sidebar*/
   }
 }
 
