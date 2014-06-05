@@ -28,12 +28,10 @@ Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Researc
 #### Reading Groups & Discussions
 
 [Evolution Discussion Group](http://www.biodiversity.ubc.ca/edg/) (EDG)
-
-&nbsp;&nbsp;&nbsp; * I currently maintain the EDG website and schedule.
+&nbsp;&nbsp;&nbsp; I currently maintain the EDG website and schedule.
 
 [The League of Extraordinary Theoreticians Assessing and Understanding Models in Evolution](http://www.zoology.ubc.ca/let/) (LET’S ASSUME!)
-
-&nbsp;&nbsp;&nbsp; * Discussion group for theoretical evolutionary biology and ecology.
+&nbsp;&nbsp;&nbsp; Discussion group for theoretical evolutionary biology and ecology.
 
 
 #### Other
