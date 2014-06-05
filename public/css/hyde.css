@@ -78,7 +78,7 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  font-family: "Abril Fatface", serif; /* I edited this */
+  font-family: "Helvetica Neue", sans-serif; /* I edited this */
 }
 
 /* About section */
@@ -86,7 +86,7 @@ html {
   color: #fff;
   margin-top: 0;
   /*font-family: "Abril Fatface", serif;*/
-  font-family: "Helvetica Neue", sans-serif; /* THIS ONE CHANGES THE MAIN TITLE FONT */
+  font-family: Menlo, Monaco, "Courier New", monospace; /* THIS ONE CHANGES THE MAIN TITLE FONT */
   font-size: 3.25rem;
 }
 
