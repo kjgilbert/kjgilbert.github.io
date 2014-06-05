@@ -32,7 +32,10 @@
  */
 
 html {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/ 
+  /* Menlo, Monaco, "Courier New", monospace; 
+  This section changes body font within pages*/
+  font-family: "Helvetica Neue", sans-serif; /* I edited this */
 }
 @media (min-width: 48rem) {
   html {
