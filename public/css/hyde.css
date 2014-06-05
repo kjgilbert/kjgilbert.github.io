@@ -67,14 +67,13 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
-  font-family: "Helvetica Neue", sans-serif; /*trying to edit font for main name in sidebar*/
   }
 }
 
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  font-family: "Helvetica Neue", sans-serif; /* I edited this */
+  font-family: "Helvetica Neue", serif; /* I edited this */
 }
 
 /* About section */
