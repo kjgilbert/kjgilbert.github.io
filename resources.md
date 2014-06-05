@@ -38,7 +38,7 @@ You can follow me on twitter [@kj_gilbert](https://twitter.com/kj_gilbert)
 
 I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
 
-&nbsp;&nbsp;&nbsp; My blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
+&nbsp;&nbsp;&nbsp;&nbsp; My blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
 An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf)
 
