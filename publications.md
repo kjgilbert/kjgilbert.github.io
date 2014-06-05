@@ -6,7 +6,7 @@ title: Publications
 ##### &nbsp;&nbsp;&nbsp; My [Google scholar page](http://scholar.google.ca/citations?user=qtirkigAAAAJ&hl=en)
 ##### &nbsp;&nbsp;&nbsp; My full [*Curriculum vitae*](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_Resume.pdf)
 
-
+&nbsp;
 
 ### 2014
 
