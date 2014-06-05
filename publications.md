@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-#### My [Google scholar page](http://scholar.google.ca/citations?user=qtirkigAAAAJ&hl=en)
+#### &nbsp;&nbsp;&nbsp; My [Google scholar page](http://scholar.google.ca/citations?user=qtirkigAAAAJ&hl=en)
 
 
 ##### 2014
