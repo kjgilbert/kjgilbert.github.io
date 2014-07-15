@@ -28,19 +28,19 @@ An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilber
 
 #### Teaching
 
-Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
+-Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
 
-Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
+-Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
 
 &nbsp;
 
 #### Volunteering & Outreach
 
-[American Society of Naturalists](http://www.amnat.org/home.html) Graduate Student Council Member
+-[American Society of Naturalists](http://www.amnat.org/home.html) Graduate Student Council Member
 
-Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
+-Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
 
-I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
+-I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
 
 &nbsp;&nbsp;&nbsp;&nbsp; My blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
@@ -48,9 +48,9 @@ I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.co
 
 #### Reading Groups & Discussions
 
-[Evolution Discussion Group](http://www.biodiversity.ubc.ca/edg/) (EDG)
+-[Evolution Discussion Group](http://www.biodiversity.ubc.ca/edg/) (EDG)
 
-[The League of Extraordinary Theoreticians Assessing and Understanding Models in Evolution](http://www.zoology.ubc.ca/let/) (LET’S ASSUME!)
+-[The League of Extraordinary Theoreticians Assessing and Understanding Models in Evolution](http://www.zoology.ubc.ca/let/) (LET’S ASSUME!)
 
 &nbsp;
 
