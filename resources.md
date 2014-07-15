@@ -21,7 +21,7 @@ Data from my publications stored on Dryad:
 > - Geographic and genotypic data for 393 individuals of *Silene latifolia* with 16 nuclear SSR markers and 1 chloroplast indel locus sampled across Europe and North America
 > - Input files and reference table for [DIYABC](http://www1.montpellier.inra.fr/CBGP/diyabc/) demographic modeling
 
-An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf)
+An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and my blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
 
 #### Teaching
@@ -38,7 +38,6 @@ An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilber
 - Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
 
 - I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
-&nbsp;&nbsp;&nbsp;&nbsp; My blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
 
 #### Reading Groups & Discussions
