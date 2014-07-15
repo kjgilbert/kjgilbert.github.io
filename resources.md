@@ -12,7 +12,7 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 &nbsp;&nbsp;&nbsp; [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
 
 
-Data from my publications stored on Dryad:
+Data from my publications stored on [Dryad](http://datadryad.org/):
 
 &nbsp;&nbsp; [Data from Gilbert and Whitlock 2014]()
 > - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
