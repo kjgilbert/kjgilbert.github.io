@@ -16,11 +16,11 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 Data from my publications stored on Dryad:
 
 &nbsp;&nbsp; [Data from Gilbert and Whitlock 2014]()
-- Simulated data from Nemo and code for Type I error testing of `QstFstComp`
+> - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
 
 &nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
-- Geographic and genotypic data for 393 individuals of *Silene latifolia* with 16 nuclear SSR markers and 1 chloroplast indel locus sampled across Europe and North America
-> Input files and reference table for [DIYABC](http://www1.montpellier.inra.fr/CBGP/diyabc/) demographic modeling
+> - Geographic and genotypic data for 393 individuals of *Silene latifolia* with 16 nuclear SSR markers and 1 chloroplast indel locus sampled across Europe and North America
+> - Input files and reference table for [DIYABC](http://www1.montpellier.inra.fr/CBGP/diyabc/) demographic modeling
 
 #### Teaching
 
