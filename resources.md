@@ -4,6 +4,7 @@ title: Resources
 ---
 
 
+&nbsp;
 
 
 Projects and code made available on my [GitHub account](https://github.com/kjgilbert):
