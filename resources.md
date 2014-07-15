@@ -11,11 +11,22 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 &nbsp;&nbsp;&nbsp; [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
     
     
+#### Datasets
+
+Data from my publications stored on Dryad:
+
+&nbsp;&nbsp; [Data from Gilbert and Whitlock 2014]()
+&nbsp;&nbsp;&nbsp;&nbsp; - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
+
+&nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
+&nbsp;&nbsp;&nbsp;&nbsp; - Geographic and genotypic data for 393 individuals of *Silene latifolia* with 16 nuclear SSR markers and 1 chloroplast indel locus sampled across Europe and North America
+&nbsp;&nbsp;&nbsp;&nbsp; - Input files and reference table for [DIYABC](http://www1.montpellier.inra.fr/CBGP/diyabc/) demographic modeling
+
 #### Teaching
 
-Evolutionary Biology (BIOL 336) - Fall 2012 & Spring 2013
+Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
 
-Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013
+Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
 
 
 #### Volunteering
