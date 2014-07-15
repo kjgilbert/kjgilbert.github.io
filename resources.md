@@ -3,7 +3,6 @@ layout: page
 title: Resources
 ---
 
-&nbsp;
 
 
 #### Software & Datasets
@@ -24,15 +23,13 @@ Data from my publications stored on Dryad:
 
 An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf)
 
-&nbsp;
 
 #### Teaching
 
-Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
+- Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
 
-Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
+- Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
 
-&nbsp;
 
 #### Volunteering & Outreach
 
@@ -41,10 +38,8 @@ Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2
 - Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
 
 - I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
-
 &nbsp;&nbsp;&nbsp;&nbsp; My blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
-&nbsp;
 
 #### Reading Groups & Discussions
 
@@ -52,7 +47,6 @@ Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2
 
 - [The League of Extraordinary Theoreticians Assessing and Understanding Models in Evolution](http://www.zoology.ubc.ca/let/) (LET’S ASSUME!)
 
-&nbsp;
 
 #### Other
 
