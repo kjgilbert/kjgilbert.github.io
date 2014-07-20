@@ -10,7 +10,7 @@ title: Publications
 
 ### 2014
 
-**Gilbert KJ**, MC Whitlock (*In Press*) [*Q<sub>ST</sub>* *F<sub>ST</sub>* comparisons with unbalanced half-sib designs](). *Molecular Ecology Resources*
+**Gilbert KJ**, MC Whitlock (*In Press*) [*Q<sub>ST</sub>* *F<sub>ST</sub>* comparisons with unbalanced half-sib designs](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12303/abstract). *Molecular Ecology Resources*
 
 Vines TH, AYK Albert, RL Andrew, F Débarre, DG Bock, MT Franklin, **KJ Gilbert**, J-S Moore, S Renaut, DJ Rennison (2013) [The availability of research data declines rapidly with article age](http://dx.doi.org/10.1016/j.cub.2013.11.014). *Current Biology*, 24, 94-97.
 
