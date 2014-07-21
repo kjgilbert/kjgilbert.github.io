@@ -14,7 +14,7 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 
 Data from my publications stored on [Dryad](http://datadryad.org/):
 
-&nbsp;&nbsp; [Data from Gilbert and Whitlock 2014]()
+&nbsp;&nbsp; [Data from Gilbert and Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
 > - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
 
 &nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
