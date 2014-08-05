@@ -23,6 +23,8 @@ Data from my publications stored on [Dryad](http://datadryad.org/):
 
 An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and my blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
+A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
+
 
 #### Teaching
 
