@@ -42,7 +42,7 @@ html {
     font-size: 14px; /* I don't think this changed anything I could detect, orig. was 16*/
   }
 }
-@media (min-width: 58rem) {
+@media (min-width: 68rem) { /*orig. is 58 */
   html {
     font-size: 18px; /* this changes page font size throughout, orig. was 20 */
   }
