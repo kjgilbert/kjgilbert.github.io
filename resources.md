@@ -11,8 +11,11 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 
 &nbsp;&nbsp;&nbsp; [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
 
+An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and my blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
 
-Data from my publications stored on [Dryad](http://datadryad.org/):
+A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
+
+Data stored on [Dryad](http://datadryad.org/):
 
 &nbsp;&nbsp; [Data from Gilbert and Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
 > - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
@@ -20,10 +23,6 @@ Data from my publications stored on [Dryad](http://datadryad.org/):
 &nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
 > - Geographic and genotypic data for 393 individuals of *Silene latifolia* with 16 nuclear SSR markers and 1 chloroplast indel locus sampled across Europe and North America
 > - Input files and reference table for [DIYABC](http://www1.montpellier.inra.fr/CBGP/diyabc/) demographic modeling
-
-An introduction on [how to make maps in R](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and my blog post on [making maps in R](http://www.molecularecologist.com/2012/09/making-maps-with-r/)
-
-A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
 
 
 #### Teaching
