@@ -42,7 +42,7 @@ html {
     font-size: 14px; /* I don't think this changed anything I could detect, orig. was 16*/
   }
 }
-@media (min-width: 80rem) { /*orig. is 58 didn't seem to change anything*/
+@media (min-width: 58rem) { /*seems to change minimum font size based on window size*/
   html {
     font-size: 18px; /* this changes page font size throughout, orig. was 20 */
   }
@@ -137,14 +137,14 @@ a.sidebar-nav-item:focus {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
-    margin-right: 2rem;
+    margin-right: 2rem; /* orig. is 2 */
   }
 }
 
 @media (min-width: 64rem) {
   .content {
     margin-left: 22rem;
-    margin-right: 4rem;
+    margin-right: 40rem; /* orig. is 4 */
   }
 }
 
