@@ -42,10 +42,10 @@ html {
     font-size: 14px; /* I don't think this changed anything I could detect, orig. was 16*/
   }
 }
-@media (min-width: 58rem) { /*seems to change minimum font size based on window size*/
+@media (min-width: 58rem) { /*seems to change minimum font size based on window size - yes, REMs are a scaling unit*/
   html {
     font-size: 18px; /* this changes page font size throughout, orig. was 20 */
-	margin-right: 1px; /* orig. this line is not here, copied up from below */
+	/* Grr, can't seem to make the right margin smaller!  margin-right: 1px; /* orig. this line is not here, copied up from below */
   }
 }
 
