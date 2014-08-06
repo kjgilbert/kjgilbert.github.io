@@ -144,7 +144,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 64rem) {
   .content {
     margin-left: 22rem;
-    margin-right: 1.5rem; /* orig. is 4, this seems to be the right side margin! */
+    margin-right: 1rem; /* orig. is 4, this seems to be the right side margin! */
   }
 }
 
