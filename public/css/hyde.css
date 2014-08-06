@@ -44,7 +44,7 @@ html {
 }
 @media (min-width: 58rem) {
   html {
-    font-size: 18px;
+    font-size: 18px; /* this changes page font size throughout */
   }
 }
 
@@ -70,6 +70,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
+    font-size: 20px; /* this changes page font size throughout */
   }
 }
 
