@@ -26,7 +26,7 @@
 
 
 /*
- * Global resets
+ * Global resets -------------THESE ARE GLOBAL PARAMS
  *
  * Update the foundational and global aspects of the page.
  */
@@ -39,12 +39,12 @@ html {
 }
 @media (min-width: 48rem) {
   html {
-    font-size: 14px;
+    font-size: 14px; /* I don't think this changed anything I could detect */
   }
 }
 @media (min-width: 58rem) {
   html {
-    font-size: 18px; /* this changes page font size throughout */
+    font-size: 20px; /* this changes page font size throughout, orig. was 20 */
   }
 }
 
@@ -70,7 +70,7 @@ html {
     bottom: 0;
     width: 18rem;
     text-align: left;
-    font-size: 20px; /* this changes page font size throughout */
+    font-size: 20px; /* this changes back the sidebar font size, overriding the above edit */
   }
 }
 
