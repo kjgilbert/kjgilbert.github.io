@@ -45,7 +45,7 @@ html {
 @media (min-width: 58rem) { /*seems to change minimum font size based on window size*/
   html {
     font-size: 18px; /* this changes page font size throughout, orig. was 20 */
-   /* margin-right: 5px; /* orig. this line is not here, copied up from below */
+	margin-right: 1px; /* orig. this line is not here, copied up from below */
   }
 }
 
