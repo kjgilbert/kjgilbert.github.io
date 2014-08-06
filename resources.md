@@ -17,7 +17,7 @@ A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilber
 
 Data stored on [Dryad](http://datadryad.org/):
 
-&nbsp;&nbsp; [Data from Gilbert and Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
+&nbsp;&nbsp; [Data from Gilbert & Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
 > - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
 
 &nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
