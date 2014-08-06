@@ -45,6 +45,7 @@ html {
 @media (min-width: 58rem) { /*seems to change minimum font size based on window size*/
   html {
     font-size: 18px; /* this changes page font size throughout, orig. was 20 */
+    margin-right: 1rem; /* orig. this line is not here, copied up from below */
   }
 }
 
@@ -137,14 +138,14 @@ a.sidebar-nav-item:focus {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
-    margin-right: 20rem; /* orig. is 2 */
+    margin-right: 2rem; /* orig. is 2 */
   }
 }
 
 @media (min-width: 64rem) {
   .content {
     margin-left: 22rem;
-    margin-right: 1rem; /* orig. is 4, this seems to be the right side margin! */
+    margin-right: 4rem; /* orig. is 4, this seems to be the right side margin? */
   }
 }
 
