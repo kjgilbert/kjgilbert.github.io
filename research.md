@@ -26,7 +26,7 @@ computation to unravel the history of an invasion of the plant *Silene latifolia
 Please see my [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_Resume.pdf) 
 and [publications](http://kjgilbert.github.io/publications/) for further information.
 
-![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png)
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png){ width: 200px; }
 
 #### Other Projects and Collaborations
 
