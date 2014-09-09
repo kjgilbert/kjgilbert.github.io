@@ -18,7 +18,7 @@ I have a strong interest in the adequacy of methods and models used to infer res
 empirical population genetic data. I am currently evaluating a range of methods used for 
 estimating effective population size.
 
-\centerline{![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png { width: 200px; })}
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png { width: 200px; })
 
 My past work has involved examining the effects of biological invasions on genetic diversity 
 and population structuring, and using this information combined with approximate Bayesian 
