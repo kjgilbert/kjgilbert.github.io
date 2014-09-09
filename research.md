@@ -18,6 +18,8 @@ I have a strong interest in the adequacy of methods and models used to infer res
 empirical population genetic data. I am currently evaluating a range of methods used for 
 estimating effective population size.
 
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png)
+
 My past work has involved examining the effects of biological invasions on genetic diversity 
 and population structuring, and using this information combined with approximate Bayesian 
 computation to unravel the history of an invasion of the plant *Silene latifolia*.
@@ -26,7 +28,6 @@ computation to unravel the history of an invasion of the plant *Silene latifolia
 Please see my [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_Resume.pdf) 
 and [publications](http://kjgilbert.github.io/publications/) for further information.
 
-![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png){ width: 200px; }
 
 #### Other Projects and Collaborations
 
