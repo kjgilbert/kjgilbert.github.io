@@ -22,7 +22,7 @@ estimating effective population size.
 
 My past work has involved examining the effects of biological invasions on genetic diversity 
 and population structuring, and using this information combined with approximate Bayesian 
-computation to unravel the history of an invasion of the plant *Silene latifolia*.
+computation to describe the history of an invasion of the plant *Silene latifolia*.
 
 
 Please see my [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_Resume.pdf) 
