@@ -37,7 +37,7 @@ genetics which I enjoy exploring with collaborators.
 Several current projects include:
 
 - The role of data accessibility and archiving in scientific research and reproducibility 
-with the UBC reproducibility group
+with the [UBC reproducibility group](http://www.zoology.ubc.ca/~repro/UBC_Reproducibility_Group/Welcome.html)
 
 -  The role of landscape and demography in spatial genetic structure before and after a 
 population crash in an alpine butterfly species, as part of a 2012 distributed graduate 
