@@ -3,18 +3,18 @@ layout: page
 title: Research
 ---
 
-At the broadest level, my interests are in gene flow and its effects on genetic population 
+At the broadest level, my interests are in gene flow and its effects on population genetic 
 structure, local adaptation, and evolution in time and space. I am exploring the role of 
 environmental heterogeneity and varying population sizes in these interactions and the 
 implications this has for persistence and differentiation of populations into the future.
 
 My current research has both an empirical and theoretical focus. I am examining the genetic 
 basis of local adaptation in *Pinus contorta* (lodgepole pine), conducting a study to validate 
-methods for detecting SNPs (GWAS, *Fst* outlier tests, environment-allele correlations) which 
-confer adaptation to certain environmental conditions . I am also investigating through 
+methods for detecting selected SNPs (GWAS, *Fst* outlier tests, environment-allele correlations) 
+which confer adaptation to certain environmental conditions. I am also investigating through 
 simulations how local adaptation can vary across a species range, especially at range edges.
 
-I have a strong interest in the adequacy of methods and models used to infer results from 
+I also have a strong interest in the adequacy of methods and models used to infer results from 
 empirical population genetic data. I am currently evaluating a range of methods used for 
 estimating effective population size.
 
