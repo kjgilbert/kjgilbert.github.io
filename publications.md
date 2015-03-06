@@ -22,7 +22,7 @@ Vines TH, AYK Albert, RL Andrew, F Débarre, DG Bock, MT Franklin, **KJ Gilbert*
 
 ### 2013
 
-Vines TH, RL Andrew, DG Bock, MT Franklin, **KJ Gilbert**, NC Kane, J-S Moore, BT Moyers, S Renaut, DJ Rennison, T Veen, S Yeaman. 2013. [Mandated archiving greatly improves access to research data](http://www.fasebj.org/content/early/2013/01/07/fj.12-218164.abstract). *FASEB Journal*, 27, 1304-1308.
+Vines TH, RL Andrew, DG Bock, MT Franklin, **KJ Gilbert**, NC Kane, J-S Moore, BT Moyers, S Renaut, DJ Rennison, T Veen, S Yeaman. (2013) [Mandated archiving greatly improves access to research data](http://www.fasebj.org/content/early/2013/01/07/fj.12-218164.abstract). *FASEB Journal*, 27, 1304-1308.
 
 ### 2012
 
