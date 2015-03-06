@@ -8,5 +8,8 @@ I am an evolutionary biologist and population geneticist working with [Mike Whit
 Contact me at kgilbert@zoology.ubc.ca
 
 
+&nbsp;
 
-![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Photo.png)
+
+
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Photo2.png)
