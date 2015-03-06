@@ -11,5 +11,8 @@ Contact me at kgilbert@zoology.ubc.ca
 &nbsp;
 
 
+&nbsp;
 
-![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Photo2.png)
+
+
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Photo3.png)
