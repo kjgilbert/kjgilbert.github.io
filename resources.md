@@ -32,7 +32,7 @@ Data stored on [Dryad](http://datadryad.org/):
 - Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
 
 
-#### Volunteering & Outreach
+#### Volunteer & Outreach
 
 - [American Society of Naturalists](http://www.amnat.org/home.html) Graduate Student Council Member
 
