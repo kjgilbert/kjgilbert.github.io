@@ -11,6 +11,8 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 
 &nbsp;&nbsp;&nbsp; [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
 
+&nbsp;&nbsp;&nbsp; Modified version of [`Nemo`](https://github.com/kjgilbert/NemoDispersalKernel), to use a breeding window and dispersal kernels
+
 My [introduction](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and [blog post](http://www.molecularecologist.com/2012/09/making-maps-with-r/) on how to make maps in R
 
 A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
