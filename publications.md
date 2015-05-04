@@ -8,8 +8,6 @@ title: Publications
 
 &nbsp;
 
-&nbsp;
-
 
 Santiso X, L Lopez, **KJ Gilbert**, R Barreiro, MC Whitlock, R Retuerto (*In Press*) [Patterns of genetic variation within and among populations in *Arbutus unedo* and its relation with selection and evolvability](http://www.sciencedirect.com/science/article/pii/S1433831915000190). *Perspectives in Plant Ecology, Evolution and Systematics*, doi: 10.1016/j.ppees.2015.02.006.
 
