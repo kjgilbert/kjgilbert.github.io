@@ -11,7 +11,7 @@ title: Publications
 
 Santiso X, L Lopez, **KJ Gilbert**, R Barreiro, MC Whitlock, R Retuerto (*In Press*) [Patterns of genetic variation within and among populations in *Arbutus unedo* and its relation with selection and evolvability](http://www.sciencedirect.com/science/article/pii/S1433831915000190). *Perspectives in Plant Ecology, Evolution and Systematics*, doi: 10.1016/j.ppees.2015.02.006.
 
-**Gilbert KJ**, MC Whitlock (2015) [*Q<sub>ST</sub>* *F<sub>ST</sub>* comparisons with unbalanced half-sib designs](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12303/abstract). *Molecular Ecology Resources*, 15, 262-267.
+**Gilbert KJ**, MC Whitlock (2015) [*Q<sub>ST</sub>* *F<sub>ST</sub>* comparisons with unbalanced half-sib designs](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12303/abstract). *Molecular Ecology Resources*, 15, 262-267.  &nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.rm574)</sub>
 
 Caplins SA, **KJ Gilbert**, C Ciotir, J Roland, SF Matter, N Keyghobadi (2014) [Landscape structure and the genetic effects of a population collapse](http://m.rspb.royalsocietypublishing.org/content/281/1796/20141798.abstract?cpetoc). *Proceedings of the Royal Society B*. 281: 20141798; doi: 10.1098/rspb.2014.1798
 
@@ -21,6 +21,6 @@ Vines TH, RL Andrew, DG Bock, MT Franklin, **KJ Gilbert**, NC Kane, J-S Moore, B
 
 **Gilbert KJ**, RL Andrew, DG Bock, MT Franklin, NC Kane, J-S Moore, BT Moyers, S Renaut, DJ Rennison, T Veen, TH Vines (2012) [Recommendations for utilizing and reporting population genetic analyses: The reproducibility of genetic clustering using the program STRUCTURE](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05754.x/abstract). *Molecular Ecology*, 21, 4925-4930.
 
-Keller SR, **KJ Gilbert**, PD Fields, DR Taylor (2012) [Bayesian inference of a complex invasion history revealed by nuclear and chloroplast genetic diversity in the colonizing plant, *Silene latifolia*](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05751.x/abstract). *Molecular Ecology*, 21, 4721-4734.  <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)</sub>
+Keller SR, **KJ Gilbert**, PD Fields, DR Taylor (2012) [Bayesian inference of a complex invasion history revealed by nuclear and chloroplast genetic diversity in the colonizing plant, *Silene latifolia*](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05751.x/abstract). *Molecular Ecology*, 21, 4721-4734.  &nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)</sub>
 
 Whitlock MC, **KJ Gilbert** (2012) [*Q<sub>ST</sub>* in a hierarchically structured population](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2012.03122.x/abstract). *Molecular Ecology Resources*, 12, 481-483.
