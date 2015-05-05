@@ -23,6 +23,6 @@ Vines TH, RL Andrew, DG Bock, MT Franklin, **KJ Gilbert**, NC Kane, J-S Moore, B
 **Gilbert KJ**, RL Andrew, DG Bock, MT Franklin, NC Kane, J-S Moore, BT Moyers, S Renaut, DJ Rennison, T Veen, TH Vines (2012) [Recommendations for utilizing and reporting population genetic analyses: The reproducibility of genetic clustering using the program STRUCTURE](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05754.x/abstract). *Molecular Ecology*, 21, 4925-4930.
 
 Keller SR, **KJ Gilbert**, PD Fields, DR Taylor (2012) [Bayesian inference of a complex invasion history revealed by nuclear and chloroplast genetic diversity in the colonizing plant, *Silene latifolia*](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2012.05751.x/abstract). *Molecular Ecology*, 21, 4721-4734.  
-&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)</sub>
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3) &nbsp; [Supplemental Material](http://onlinelibrary.wiley.com/store/10.1111/j.1365-294X.2012.05751.x/asset/supinfo/mec5751-sup-0001-TableS1-S3-FigS1-S4.docx?v=1&s=1372fb9bbbc00306e2fb3efae8b7fd281464d89f)</sub>  
 
 Whitlock MC, **KJ Gilbert** (2012) [*Q<sub>ST</sub>* in a hierarchically structured population](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2012.03122.x/abstract). *Molecular Ecology Resources*, 12, 481-483.
