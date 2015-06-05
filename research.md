@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+Now I work on fruit flies!
+
 At the broadest level, my interests are in gene flow and its effects on population genetic 
 structure, local adaptation, and evolution in time and space. I am exploring the role of 
 environmental heterogeneity and varying population sizes in these interactions and the 
