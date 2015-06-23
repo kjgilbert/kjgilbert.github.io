@@ -9,7 +9,10 @@ title: Publications
 &nbsp;
 
 
-Santiso X, L Lopez, **KJ Gilbert**, R Barreiro, MC Whitlock, R Retuerto (*In Press*) [Patterns of genetic variation within and among populations in *Arbutus unedo* and its relation with selection and evolvability](http://www.sciencedirect.com/science/article/pii/S1433831915000190). *Perspectives in Plant Ecology, Evolution and Systematics*, doi: 10.1016/j.ppees.2015.02.006.  
+**Gilbert KJ**, MC Whitlock (*In Press*) [Evaluating methods for estimating local effective population size with and without migration](). *Evolution*.
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.3r651)</sub> &nbsp;<sub>[Code on GitHub](https://github.com/kjgilbert/NeEstimation_Param-Conversion-Analysis)</sub> &nbsp;<sub>[Supplemental material]()</sub>
+
+Santiso X, L Lopez, **KJ Gilbert**, R Barreiro, MC Whitlock, R Retuerto (2015) [Patterns of genetic variation within and among populations in *Arbutus unedo* and its relation with selection and evolvability](http://www.sciencedirect.com/science/article/pii/S1433831915000190). *Perspectives in Plant Ecology, Evolution and Systematics*, 17, 185-192, doi: 10.1016/j.ppees.2015.02.006.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Supplemental material](http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=docx&md5=f8e6c4ac22643002a1f51925e52db407)</sub>
 
 **Gilbert KJ**, MC Whitlock (2015) [*Q<sub>ST</sub>* *F<sub>ST</sub>* comparisons with unbalanced half-sib designs](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12303/abstract). *Molecular Ecology Resources*, 15, 262-267.  

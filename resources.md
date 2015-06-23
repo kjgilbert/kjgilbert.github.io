@@ -22,6 +22,9 @@ A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilber
 Data stored on [Dryad](http://datadryad.org/):
 
 &nbsp;&nbsp; [Data from Gilbert & Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
+> - Input and output files for *N*<sub>e</sub> estimation programs, simulated data from Nemo and code for sampling, formatting, and analyzing files (also made public on [GitHub](https://github.com/kjgilbert/NeEstimation_Param-Conversion-Analysis))
+
+&nbsp;&nbsp; [Data from Gilbert & Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
 > - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
 
 &nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
