@@ -57,10 +57,13 @@ Data stored on [Dryad](http://datadryad.org/):
 - [The League of Extraordinary Theoreticians Assessing and Understanding Models in Evolution](http://www.zoology.ubc.ca/let/) (LET’S ASSUME!)
 
 
-#### Other
+#### Just for Fun
 
 You can also follow me on twitter [@kj_gilbert](https://twitter.com/kj_gilbert)
 
+Or check out my academic lineage on [Evolution Tree](http://academictree.org/evolution/tree.php?pid=50418&fontsize=0&pnodecount=4&cnodecount=2)
+
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/HillRoberston_Cropped.png)
 
 
 
