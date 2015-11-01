@@ -38,12 +38,12 @@ Data stored on [Dryad](http://datadryad.org/):
 
 - Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
 
-- Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014
+- Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014, Fall 2015
 
 
 #### Volunteer & Outreach
 
-- [American Society of Naturalists](http://www.amnat.org/home.html) Graduate Student Council Member
+- [American Society of Naturalists](http://www.amnat.org/home.html) [Graduate Student Council](http://asngrads.com/) Member, 2013 - 2016 (Chair, 2016)
 
 - Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
 
