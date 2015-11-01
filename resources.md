@@ -63,7 +63,7 @@ You can also follow me on twitter [@kj_gilbert](https://twitter.com/kj_gilbert)
 
 Or check out my academic lineage on [Evolution Tree](http://academictree.org/evolution/tree.php?pid=50418&fontsize=0&pnodecount=4&cnodecount=2)
 
-![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/HillRoberston_Cropped.png)
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/HillRobertson_Cropped.png)
 
 
 
