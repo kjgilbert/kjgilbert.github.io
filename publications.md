@@ -8,6 +8,7 @@ title: Publications
 
 &nbsp;
 
+**Gilbert KJ** (*In Press*) *News & Views Perspective*: Identifying the number of population clusters with STRUCTURE: Problems and solutions. *Molecular Ecology Resources*.
 
 **Gilbert KJ**, MC Whitlock (2015) [Evaluating methods for estimating local effective population size with and without migration](http://onlinelibrary.wiley.com/doi/10.1111/evo.12713/abstract). *Evolution*, 68, 2154-2166.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.3r651)</sub> &nbsp;<sub>[Code on GitHub](https://github.com/kjgilbert/NeEstimation_Param-Conversion-Analysis)</sub> &nbsp;<sub>[Supplemental material]()</sub>
