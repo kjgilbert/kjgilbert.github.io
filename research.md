@@ -25,7 +25,7 @@ and population structuring, and using this information combined with approximate
 computation to describe the history of an invasion of the plant *Silene latifolia*.
 
 
-Please see my [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_Resume.pdf) 
+Please see my [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_CV.pdf) 
 and [publications](http://kjgilbert.github.io/publications/) for further information.
 
 
