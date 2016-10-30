@@ -27,7 +27,7 @@ scientific research and in scientific reproducibility, which I have worked on wi
 
 My undergraduate research involved examining the effects of biological invasions on genetic 
 diversity and population structure, and using this information combined with approximate 
-Bayesian computation to describe the history of an invasion of the plant *Silene latifolia*.
+Bayesian computation to describe the history of invasion of the plant *Silene latifolia*.
 
 
 Please see my [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_CV.pdf) 
