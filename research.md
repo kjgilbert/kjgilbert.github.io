@@ -14,7 +14,7 @@ study to investigate the bias introduced by various mating systems in estimating
 of fitness effects for new mutations.
 
 I generally aim to address my research questions through both theoretical simulation-based 
-approaches, as well as with validation and testing with empirical data. My future work will 
+approaches, as well as through validation and testing with empirical data. My future work will 
 involve comparing several range expansion models to real-world genomic data from humans and 
 other species.
 
