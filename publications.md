@@ -5,6 +5,7 @@ title: Publications
 
 ##### &nbsp;&nbsp;&nbsp; My [Google scholar page](http://scholar.google.ca/citations?user=qtirkigAAAAJ&hl=en)
 ##### &nbsp;&nbsp;&nbsp; My full [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_CV.pdf)
+##### &nbsp;&nbsp;&nbsp; My PhD [dissertation](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0319242)
 
 &nbsp;
 
