@@ -9,6 +9,8 @@ title: Publications
 
 &nbsp;
 
+**Gilbert KJ**, NP Sharp, AL Angert, GL Conte, JA Draghi, F Guillaume, AL Hargreaves, R Matthey-Doret, MC Whitlock. (*Accepted*) Local adaptation interacts with expansion load during range expansion: Maladaptation reduces expansion load. *The American Naturalist*.
+
 **Gilbert KJ** (2016) *News & Views Perspective*: [Identifying the number of population clusters with STRUCTURE: Problems and solutions](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12521/abstract?campaign=woletoc). *Molecular Ecology Resources*, 16, 601-603.
 
 **Gilbert KJ**, MC Whitlock (2015) [Evaluating methods for estimating local effective population size with and without migration](http://onlinelibrary.wiley.com/doi/10.1111/evo.12713/abstract). *Evolution*, 68, 2154-2166.  
