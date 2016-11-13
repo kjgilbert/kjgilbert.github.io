@@ -20,4 +20,4 @@ I received my PhD in the department of [Zoology](http://www.zoology.ubc.ca/) at 
 
 
 
-![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Photo.JPG)
+![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Photo.png)
