@@ -23,7 +23,7 @@ Statistics [visualization tools](http://www.zoology.ubc.ca/~whitlock/kingfisher/
 
 Biostatistics teaching resources ([UBC BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/))
 
-(Quantitative methods in ecology and evolution)[http://www.zoology.ubc.ca/biol548/index.html] (statistics in R, UBC BIOL 548)
+[Quantitative methods in ecology and evolution](http://www.zoology.ubc.ca/biol548/index.html) (statistics in R, UBC BIOL 548)
 
 
 #### Volunteer & Outreach
