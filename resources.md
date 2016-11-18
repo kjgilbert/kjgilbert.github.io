@@ -29,7 +29,7 @@ title: Resources
 - [Quantitative methods in ecology and evolution](http://www.zoology.ubc.ca/biol548/index.html) (statistics in R)
 
 
-#### Miscellaneous
+#### Journal Societies and Miscellaneous
 
 - [American Society of Naturalists](http://www.amnat.org/home.html) (and the [ASN YouTube channel](https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA?&ab_channel=ASNAmNat))
 
