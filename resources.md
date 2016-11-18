@@ -9,11 +9,11 @@ title: Resources
 
 #### Projects and code made available on my [GitHub account](https://github.com/kjgilbert):
 
-&nbsp;&nbsp;&nbsp; - [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
+- [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
 
-&nbsp;&nbsp;&nbsp;  - A modified version of [`Nemo`](https://github.com/kjgilbert/NemoDispersalKernel), to use a breeding window and dispersal kernels
+- A modified version of [`Nemo`](https://github.com/kjgilbert/NemoDispersalKernel), to use a breeding window and dispersal kernels
 
-&nbsp;&nbsp;&nbsp; - [`aNEMOne`](https://github.com/kjgilbert/aNEMOne), an R package for handling inputs and outputs from Nemo
+- [`aNEMOne`](https://github.com/kjgilbert/aNEMOne), an R package for handling inputs and outputs from Nemo
 
 
 #### Teaching Tools
@@ -26,7 +26,7 @@ title: Resources
 
 - Biostatistics teaching resources ([UBC BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/))
 
-- [Quantitative methods in ecology and evolution](http://www.zoology.ubc.ca/biol548/index.html) (statistics in R, UBC BIOL 548)
+- [Quantitative methods in ecology and evolution](http://www.zoology.ubc.ca/biol548/index.html) (statistics in R)
 
 
 #### Miscellaneous
