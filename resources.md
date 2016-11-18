@@ -9,36 +9,21 @@ title: Resources
 
 Projects and code made available on my [GitHub account](https://github.com/kjgilbert):
 
-&nbsp;&nbsp;&nbsp; [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
+&nbsp;&nbsp;&nbsp; - [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
 
-&nbsp;&nbsp;&nbsp;  A modified version of [`Nemo`](https://github.com/kjgilbert/NemoDispersalKernel), to use a breeding window and dispersal kernels
+&nbsp;&nbsp;&nbsp;  - A modified version of [`Nemo`](https://github.com/kjgilbert/NemoDispersalKernel), to use a breeding window and dispersal kernels
 
-&nbsp;&nbsp;&nbsp; [`aNEMOne`](https://github.com/kjgilbert/aNEMOne), an R package for handling inputs and outputs from Nemo
+&nbsp;&nbsp;&nbsp; - [`aNEMOne`](https://github.com/kjgilbert/aNEMOne), an R package for handling inputs and outputs from Nemo
 
 My [introduction](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and [blog post](http://www.molecularecologist.com/2012/09/making-maps-with-r/) on how to make maps in R
 
 A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
 
-Data stored on [Dryad](http://datadryad.org/):
+Statistics [visualization tools](http://www.zoology.ubc.ca/~whitlock/kingfisher/KFhomepage.htm) for teaching
 
-&nbsp;&nbsp; [Data from Gilbert & Whitlock 2015](http://datadryad.org/resource/doi:10.5061/dryad.3r651)
-> - Input and output files for *N*<sub>e</sub> estimation programs
-> - Simulated data from Nemo for ideal populations and param files for migration and isolation by distance scenarios
-> - R scripts for sampling, formatting, and analyzing files (also made public on [GitHub](https://github.com/kjgilbert/NeEstimation_Param-Conversion-Analysis))
+Biostatistics teaching resources ([UBC BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/))
 
-&nbsp;&nbsp; [Data from Gilbert & Whitlock 2014](http://datadryad.org/resource/doi:10.5061/dryad.rm574)
-> - Simulated data from Nemo and code for Type I error testing of `QstFstComp`
-
-&nbsp;&nbsp; [Data from Keller *et al*. 2012](http://datadryad.org/resource/doi:10.5061/dryad.9r2h3)
-> - Geographic and genotypic data for 393 individuals of *Silene latifolia* with 16 nuclear SSR markers and 1 chloroplast indel locus sampled across Europe and North America
-> - Input files and reference table for [DIYABC](http://www1.montpellier.inra.fr/CBGP/diyabc/) demographic modeling
-
-
-#### Teaching
-
-- Evolutionary Biology (BIOL 336) - Fall 2012, Spring 2013
-
-- Biostatistics ([BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/)) - Fall 2013, Fall 2014, Fall 2015
+(Quantitative methods in ecology and evolution)[http://www.zoology.ubc.ca/biol548/index.html] (statistics in R, UBC BIOL 548)
 
 
 #### Volunteer & Outreach
