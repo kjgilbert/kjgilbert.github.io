@@ -9,7 +9,7 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, NP Sharp, AL Angert, GL Conte, JA Draghi, F Guillaume, AL Hargreaves, R Matthey-Doret, MC Whitlock. (*Accepted*) Local adaptation interacts with expansion load during range expansion: Maladaptation reduces expansion load. *The American Naturalist*.
+**Gilbert KJ**, NP Sharp, AL Angert, GL Conte, JA Draghi, F Guillaume, AL Hargreaves, R Matthey-Doret, MC Whitlock. (*Accepted*) Local adaptation interacts with expansion load during range expansion: Maladaptation reduces expansion load. *The American Naturalist*.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.k7c40)</sub> &nbsp;<sub>[Modified Nemo code](https://github.com/kjgilbert/NemoDispersalKernel)</sub> &nbsp;<sub>[aNEMOne](https://github.com/kjgilbert/aNEMOne)</sub>
 
 **Gilbert KJ** (2016) [Identifying the number of population clusters with STRUCTURE: Problems and solutions](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12521/abstract?campaign=woletoc). *Molecular Ecology Resources*, 16, 601-603.
