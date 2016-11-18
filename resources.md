@@ -37,6 +37,8 @@ title: Resources
 
 - [European Society for Evolutionary Biology](http://eseb.org/)
 
+- [Canadian Society for Ecology and Evolution](http://csee-scee.ca/)
+
 - [The Molecular Ecologist](http://www.molecularecologist.com/) blog
 
 - [Diversify EEB](https://diversifyeeb.wordpress.com/)
