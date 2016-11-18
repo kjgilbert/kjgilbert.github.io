@@ -7,7 +7,7 @@ title: Resources
 &nbsp;
 
 
-Projects and code made available on my [GitHub account](https://github.com/kjgilbert):
+#### Projects and code made available on my [GitHub account](https://github.com/kjgilbert):
 
 &nbsp;&nbsp;&nbsp; - [`QstFstComp`](https://github.com/kjgilbert/QstFstComp), an R package for performing *Q<sub>ST</sub>*-*F<sub>ST</sub>* Comparisons
 
@@ -15,24 +15,33 @@ Projects and code made available on my [GitHub account](https://github.com/kjgil
 
 &nbsp;&nbsp;&nbsp; - [`aNEMOne`](https://github.com/kjgilbert/aNEMOne), an R package for handling inputs and outputs from Nemo
 
-My [introduction](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and [blog post](http://www.molecularecologist.com/2012/09/making-maps-with-r/) on how to make maps in R
 
-A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
+#### Teaching Tools
 
-Statistics [visualization tools](http://www.zoology.ubc.ca/~whitlock/kingfisher/KFhomepage.htm) for teaching
+- My [introduction](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/R_MakingMaps.pdf) and [blog post](http://www.molecularecologist.com/2012/09/making-maps-with-r/) on how to make maps in R
 
-Biostatistics teaching resources ([UBC BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/))
+- A brief tutorial on using [git and GitHub](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/KGilbert_GitTutorial.pdf) 
 
-[Quantitative methods in ecology and evolution](http://www.zoology.ubc.ca/biol548/index.html) (statistics in R, UBC BIOL 548)
+- Statistics [visualization tools](http://www.zoology.ubc.ca/~whitlock/kingfisher/KFhomepage.htm) for teaching
+
+- Biostatistics teaching resources ([UBC BIOL 300](http://www.zoology.ubc.ca/~whitlock/bio300/))
+
+- [Quantitative methods in ecology and evolution](http://www.zoology.ubc.ca/biol548/index.html) (statistics in R, UBC BIOL 548)
 
 
-#### Volunteer & Outreach
+#### Miscellaneous
 
-- [American Society of Naturalists](http://www.amnat.org/home.html) [Graduate Student Council](http://asngrads.com/) Member, 2013 - 2016 (Chair, 2016)
+- [American Society of Naturalists](http://www.amnat.org/home.html) (and the [ASN YouTube channel](https://www.youtube.com/channel/UC8FDICm2TYLT-y1FB8gcQlA?&ab_channel=ASNAmNat))
+
+- [Society for the Study of Evolution](http://www.evolutionsociety.org/)
+
+- [European Society for Evolutionary Biology](http://eseb.org/)
+
+- [The Molecular Ecologist](http://www.molecularecologist.com/) blog
+
+- [Diversify EEB](https://diversifyeeb.wordpress.com/)
 
 - Mist-netting and bird banding at Iona Island Bird Observatory with [Wild Research](http://wildresearch.ca/)
-
-- I am a contributor on [The Molecular Ecologist](http://www.molecularecologist.com/) blog
 
 
 #### Reading Groups & Discussions
