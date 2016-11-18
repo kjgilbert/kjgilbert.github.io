@@ -10,11 +10,12 @@ title: Publications
 &nbsp;
 
 **Gilbert KJ**, NP Sharp, AL Angert, GL Conte, JA Draghi, F Guillaume, AL Hargreaves, R Matthey-Doret, MC Whitlock. (*Accepted*) Local adaptation interacts with expansion load during range expansion: Maladaptation reduces expansion load. *The American Naturalist*.
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.k7c40)</sub> &nbsp;<sub>[Modified Nemo code](https://github.com/kjgilbert/NemoDispersalKernel)</sub> &nbsp;<sub>[aNEMOne](https://github.com/kjgilbert/aNEMOne)</sub>
 
-**Gilbert KJ** (2016) *News & Views Perspective*: [Identifying the number of population clusters with STRUCTURE: Problems and solutions](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12521/abstract?campaign=woletoc). *Molecular Ecology Resources*, 16, 601-603.
+**Gilbert KJ** (2016) [Identifying the number of population clusters with STRUCTURE: Problems and solutions](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12521/abstract?campaign=woletoc). *Molecular Ecology Resources*, 16, 601-603.
 
 **Gilbert KJ**, MC Whitlock (2015) [Evaluating methods for estimating local effective population size with and without migration](http://onlinelibrary.wiley.com/doi/10.1111/evo.12713/abstract). *Evolution*, 68, 2154-2166.  
-&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.3r651)</sub> &nbsp;<sub>[Code on GitHub](https://github.com/kjgilbert/NeEstimation_Param-Conversion-Analysis)</sub> &nbsp;<sub>[Supplemental material]()</sub>
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.3r651)</sub> &nbsp;<sub>[Code on GitHub](https://github.com/kjgilbert/NeEstimation_Param-Conversion-Analysis)</sub> &nbsp;<sub>[Supplemental material](http://onlinelibrary.wiley.com/store/10.1111/evo.12713/asset/supinfo/evo12713-sup-0001-SuppMat.docx?v=1&s=cad9dc7cd08dec149fab881e443c0a122e1c1766)</sub>
 
 Santiso X, L Lopez, **KJ Gilbert**, R Barreiro, MC Whitlock, R Retuerto (2015) [Patterns of genetic variation within and among populations in *Arbutus unedo* and its relation with selection and evolvability](http://www.sciencedirect.com/science/article/pii/S1433831915000190). *Perspectives in Plant Ecology, Evolution and Systematics*, 17, 185-192, doi:10.1016/j.ppees.2015.02.006.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Supplemental material](http://www.sciencedirect.com/science?_ob=MiamiMultiMediaURL&_method=helpContent&_fileExtension=docx&md5=f8e6c4ac22643002a1f51925e52db407)</sub>
