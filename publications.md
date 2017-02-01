@@ -9,7 +9,7 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, MC Whitlock. (2017) The genetics of adaptation to discrete heterogeneous environments: Frequent mutation or large effect alleles can allow range expansion. *Journal of Evolutionary Biology*, doi:10.1111/jeb.13029. 
+**Gilbert KJ**, MC Whitlock. (2017) The genetics of adaptation to discrete heterogeneous environments: Frequent mutation or large effect alleles can allow range expansion. *Journal of Evolutionary Biology*, doi:10.1111/jeb.13029.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.k6636)</sub> &nbsp;<sub>[Modified Nemo code](https://github.com/kjgilbert/NemoDispersalKernel)</sub> &nbsp;<sub>[aNEMOne](https://github.com/kjgilbert/aNEMOne)</sub>
 
 **Gilbert KJ**, NP Sharp, AL Angert, GL Conte, JA Draghi, F Guillaume, AL Hargreaves, R Matthey-Doret, MC Whitlock. (2017) Local adaptation interacts with expansion load during range expansion: Maladaptation reduces expansion load. *The American Naturalist*, 189(4), doi:10.1086/690673.  
