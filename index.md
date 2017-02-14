@@ -14,7 +14,7 @@ I was previously an [EEB](http://www.eeb.utoronto.ca/about-us/employment/postdoc
 I received my PhD in the department of [Zoology](http://www.zoology.ubc.ca/) at the [University of British Columbia](http://www.ubc.ca/), working with [Mike Whitlock](http://www.zoology.ubc.ca/person/whitlock).
 
 **Contact me at kgilbert@zoology.ubc.ca**  
-&nbsp; &nbsp; **or kimberly.gilbert@iee.unibe.ch**
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **or kimberly.gilbert@iee.unibe.ch**
 
 
 &nbsp;
