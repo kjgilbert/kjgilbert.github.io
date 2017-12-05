@@ -9,6 +9,8 @@ title: Publications
 
 &nbsp;
 
+Peischl S, Dupanloup I, Foucal A, Jomphe M, Bruat V, Grenier J-C, Gouy A, **Gilbert KJ**, Gbeha E, Bosshard L, Hip-Ki E, Agbessi M, Hodgkinson A, V\'ezina H, Awadalla P, Excoffier L (2017) [Relaxed selection during a recent human expansion](http://www.genetics.org/content/early/2017/11/28/genetics.117.300551). *Genetics*, genetics.300551.2017
+
 **Gilbert KJ**, MC Whitlock. (2017) [The genetics of adaptation to discrete heterogeneous environments: Frequent mutation or large effect alleles can allow range expansion](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/abstract). *Journal of Evolutionary Biology*, 30(3), 591-602, doi:10.1111/jeb.13029.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.k6636)</sub> &nbsp;<sub>[Modified Nemo code](https://github.com/kjgilbert/NemoDispersalKernel)</sub> &nbsp;<sub>[aNEMOne](https://github.com/kjgilbert/aNEMOne)</sub>
 
