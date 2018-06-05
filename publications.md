@@ -9,9 +9,13 @@ title: Publications
 
 &nbsp;
 
-Peischl S, Dupanloup I, Foucal A, Jomphe M, Bruat V, Grenier J-C, Gouy A, **Gilbert KJ**, Gbeha E, Bosshard L, Hip-Ki E, Agbessi M, Hodgkinson A, Vézina H, Awadalla P, Excoffier L (2017) [Relaxed selection during a recent human expansion](http://www.genetics.org/content/early/2017/11/28/genetics.117.300551). *Genetics*, genetics.300551.2017
+**Gilbert KJ**, Peischl S, Excoffier L (*Submitted*) Mutation load dynamics during environmentally-driven range shifts. *PLOS Genetics*, PGENETICS-D-18-01058}, BioRXiv: https://doi.org/10.1101/333252
 
-**Gilbert KJ**, MC Whitlock. (2017) [The genetics of adaptation to discrete heterogeneous environments: Frequent mutation or large effect alleles can allow range expansion](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/abstract). *Journal of Evolutionary Biology*, 30(3), 591-602, doi:10.1111/jeb.13029.  
+Antonovics J, Abbate J, Bruns E, Fields PD, Forrester N, **Gilbert KJ**, Hood M, Park T, Taylor DR (*In Press*, AJB-D-18-00087) Effect of the fungal pathogen *Microbotryum* on early growth of *Silene latifolia*. *American Journal of Botany*.
+
+Peischl S, Dupanloup I, Foucal A, Jomphe M, Bruat V, Grenier J-C, Gouy A, **Gilbert KJ**, Gbeha E, Bosshard L, Hip-Ki E, Agbessi M, Hodgkinson A, Vézina H, Awadalla P, Excoffier L (2017) [Relaxed selection during a recent human expansion](http://www.genetics.org/content/early/2017/11/28/genetics.117.300551). *Genetics*, 208(2), 763-777, genetics.300551.2017
+
+**Gilbert KJ**, MC Whitlock. (2018) [The genetics of adaptation to discrete heterogeneous environments: Frequent mutation or large effect alleles can allow range expansion](http://onlinelibrary.wiley.com/doi/10.1111/jeb.13029/abstract). *Journal of Evolutionary Biology*, 30(3), 591-602, doi:10.1111/jeb.13029.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Dryad data](http://datadryad.org/resource/doi:10.5061/dryad.k6636)</sub> &nbsp;<sub>[Modified Nemo code](https://github.com/kjgilbert/NemoDispersalKernel)</sub> &nbsp;<sub>[aNEMOne](https://github.com/kjgilbert/aNEMOne)</sub>
 
 **Gilbert KJ**, NP Sharp, AL Angert, GL Conte, JA Draghi, F Guillaume, AL Hargreaves, R Matthey-Doret, MC Whitlock. (2017) [Local adaptation interacts with expansion load during range expansion: Maladaptation reduces expansion load](http://www.journals.uchicago.edu/doi/full/10.1086/690673). *The American Naturalist*, 189(4), 368-380, doi:10.1086/690673.  
