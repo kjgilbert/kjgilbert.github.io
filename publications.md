@@ -9,7 +9,7 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, Peischl S, Excoffier L (*Submitted*) Mutation load dynamics during environmentally-driven range shifts. *PLOS Genetics*, PGENETICS-D-18-01058}, BioRXiv: https://doi.org/10.1101/333252
+**Gilbert KJ**, Peischl S, Excoffier L (*Submitted*) Mutation load dynamics during environmentally-driven range shifts. *PLOS Genetics*, PGENETICS-D-18-01058}, [BioRXiv: https://doi.org/10.1101/333252](https://www.biorxiv.org/content/early/2018/05/29/333252).
 
 Antonovics J, Abbate J, Bruns E, Fields PD, Forrester N, **Gilbert KJ**, Hood M, Park T, Taylor DR (*In Press*, AJB-D-18-00087) Effect of the fungal pathogen *Microbotryum* on early growth of *Silene latifolia*. *American Journal of Botany*.
 
