@@ -11,7 +11,7 @@ title: Publications
 
 **Gilbert KJ**, Peischl S, Excoffier L (*Submitted*) Mutation load dynamics during environmentally-driven range shifts. *PLOS Genetics*, PGENETICS-D-18-01058, [BioRXiv: https://doi.org/10.1101/333252](https://www.biorxiv.org/content/early/2018/05/29/333252).
 
-Antonovics J, Abbate J, Bruns E, Fields PD, Forrester N, **Gilbert KJ**, Hood M, Park T, Taylor DR (*In Press*, AJB-D-18-00087) Effect of the fungal pathogen *Microbotryum* on early growth of *Silene latifolia*. *American Journal of Botany*.
+Antonovics J, Abbate J, Bruns E, Fields PD, Forrester N, **Gilbert KJ**, Hood M, Park T, Taylor DR (2018) Effect of the anther-smut fungus *Microbotryum* on the juvenile growth of its host *Silene latifolia*. *American Journal of Botany*, 105(6), 1088-1095.
 
 Peischl S, Dupanloup I, Foucal A, Jomphe M, Bruat V, Grenier J-C, Gouy A, **Gilbert KJ**, Gbeha E, Bosshard L, Hip-Ki E, Agbessi M, Hodgkinson A, Vézina H, Awadalla P, Excoffier L (2017) [Relaxed selection during a recent human expansion](http://www.genetics.org/content/early/2017/11/28/genetics.117.300551). *Genetics*, 208(2), 763-777, genetics.300551.2017
 
