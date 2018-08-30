@@ -7,15 +7,17 @@ title: Research
 My research focuses on the impact complex demographic histories have on evolutionary processes 
 through time and space. The interactions of mutation, gene flow, genetic drift, and selection 
 can be greatly altered in non-equilibrium scenarios. Most recently I have addressed these 
-questions by studying local adaptation during range expansions. I have previously investigated 
-the accuracy of methods for estimating effective population size in the presence of migration. 
-During my current post-doc at the University of Toronto, I am conducting another methods-testing 
-study to investigate the bias introduced by various mating systems in estimating the distribution 
-of fitness effects for new mutations.
+questions by studying local adaptation and the accumulation of deleterious mutation load during 
+range expansions. I have previously investigated the accuracy of methods for estimating effective 
+population size in the presence of migration. During a short post-doc at the University of Toronto, 
+I also investigated the accuracy of methods for inferring the distribution of fitness effects (DFE) for 
+new mutations under scenarios of various mating and reproductive systems that are expected to bias these estimates.
+During my current post-doc at the University of Bern, I am further studying the dynamics of species 
+range expansions and shifts under various demographic and mutational scenarios.
 
 I generally aim to address my research questions through both theoretical simulation-based 
 approaches, as well as through validation and testing with empirical data. My future work will 
-involve comparing several range expansion models to real-world genomic data from humans and 
+involve comparing my models to real-world genomic data from humans, plants, and applicable
 other species.
 
 
