@@ -9,7 +9,10 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, Peischl S, Excoffier L (*Accepted*) Mutation load dynamics during environmentally-driven range shifts. *PLOS Genetics*, PGENETICS-D-18-01058.  
+Peischl S, **Gilbert KJ** (*Submitted*) Evolution of dispersal can rescue populations from expansion load. *The American Naturalist \#58906, 
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[BioRXiv](https://www.biorxiv.org/content/early/2018/11/30/483883)</sub>
+
+**Gilbert KJ**, Peischl S, Excoffier L (2018) [Mutation load dynamics during environmentally-driven range shifts](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007450). *PLOS Genetics*, 14(9): e1007450. doi:10.1371/journal.pgen.1007450.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Pre-print](https://www.biorxiv.org/content/early/2018/05/29/333252)</sub> &nbsp;<sub>[Simulation code](https://github.com/kjgilbert/ExpLoad)</sub>
 
 Antonovics J, Abbate J, Bruns E, Fields PD, Forrester N, **Gilbert KJ**, Hood M, Park T, Taylor DR (2018) [Effect of the anther-smut fungus *Microbotryum* on the juvenile growth of its host *Silene latifolia*](https://onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1114). *American Journal of Botany*, 105(6), 1088-1095.
