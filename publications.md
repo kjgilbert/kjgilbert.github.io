@@ -9,7 +9,10 @@ title: Publications
 
 &nbsp;
 
-Peischl S, **Gilbert KJ** (*Accepted*) Evolution of dispersal can rescue populations from expansion load. *The American Naturalist* 58906.  
+**Gilbert KJ&ast**, Pouyet F&ast, Excoffier L, Peischl S (*Submitted*) Transition from background selection to associative overdominance promotes diversity in regions of low recombination.  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint]()</sub>
+
+Peischl S, **Gilbert KJ** (*In Press*) Evolution of dispersal can rescue populations from expansion load. *The American Naturalist* https://doi.org/10.1086/705993.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/early/2018/11/30/483883)</sub>
 
 **Gilbert KJ**, Peischl S, Excoffier L (2018) [Mutation load dynamics during environmentally-driven range shifts](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007450). *PLOS Genetics*, 14(9): e1007450. doi:10.1371/journal.pgen.1007450.  
