@@ -10,7 +10,7 @@ title: Home
 I am an evolutionary biologist and population geneticist, and currently a postdoc in the [Department of Computational Biology](https://www.unil.ch/dbc/en/home.html) 
 at the University of Lausanne (UNIL), working with [Christophe Dessimoz](https://lab.dessimoz.org/). 
 In September 2020, I will begin as an [SNSF Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) 
-Fellow at the [Institute of Plant Sciences](http://www.ips.unibe.ch/) at the [University of Bern](http://www.unibe.ch/index_eng.html).
+Fellow in the [Institute of Plant Sciences](http://www.ips.unibe.ch/) at the [University of Bern](http://www.unibe.ch/index_eng.html).
 
 I was previously an [EMBO](http://www.embo.org/) long-term postdoctoral fellow in the [Institute of Ecology and Evolution](http://www.iee.unibe.ch/index_eng.html) 
 at the [University of Bern](http://www.unibe.ch/index_eng.html), working with [Laurent Excoffier](http://www.cmpg.iee.unibe.ch/about_us/team/researchers/prof_dr_excoffier_laurent/index_eng.html) 
@@ -24,10 +24,7 @@ I received my PhD in the department of [Zoology](http://www.zoology.ubc.ca/) at 
 
 **Contact me at kgilbert@zoology.ubc.ca**  
 
-
 &nbsp;
-
-
 
 
 
