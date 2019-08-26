@@ -9,7 +9,7 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ&ast**, Pouyet F&ast, Excoffier L, Peischl S (*Submitted*) Transition from background selection to associative overdominance promotes diversity in regions of low recombination.  
+**Gilbert KJ&ast;**, Pouyet F&ast;, Excoffier L, Peischl S (*Submitted*) Transition from background selection to associative overdominance promotes diversity in regions of low recombination.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint]()</sub>
 
 Peischl S, **Gilbert KJ** (*In Press*) Evolution of dispersal can rescue populations from expansion load. *The American Naturalist* https://doi.org/10.1086/705993.  
