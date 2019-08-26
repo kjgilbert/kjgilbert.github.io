@@ -6,19 +6,15 @@ title: Research
 
 My research focuses on the impact complex demographic histories have on evolutionary processes 
 through time and space. The interactions of mutation, gene flow, genetic drift, and selection 
-can be greatly altered in non-equilibrium scenarios. Most recently I have addressed these 
-questions by studying local adaptation and the accumulation of deleterious mutation load during 
-range expansions. I have previously investigated the accuracy of methods for estimating effective 
-population size in the presence of migration. During a short post-doc at the University of Toronto, 
-I also investigated the accuracy of methods for inferring the distribution of fitness effects (DFE) for 
-new mutations under scenarios of various mating and reproductive systems that are expected to bias these estimates.
-During my current post-doc at the University of Bern, I am further studying the dynamics of species 
-range expansions and shifts under various demographic and mutational scenarios.
+can be greatly altered in non-equilibrium scenarios. I aim to study these processes through a 
+combination of theoretical and empirical approaches to inform our understanding of local adaptation, 
+mutation load, evolution of recombination modifiers, and the distribution of fitness effects for 
+new mutations (DFE).
 
-I generally aim to address my research questions through both theoretical simulation-based 
-approaches, as well as through validation and testing with empirical data. My future work will 
-involve comparing my models to real-world genomic data from humans, plants, and applicable
-other species.
+A portion of my research is devoted to methods testing and development where I have 
+worked on methods for *Q<sub>ST</sub>*-*F<sub>ST</sub>* comparisons and investigated the biases 
+associated with evolutionary inference approaches through analysis of simulated data, 
+including inference of the DFE and estimation of effective population size.
 
 
 ![photo](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/extras/Fst_Photo.png)
