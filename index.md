@@ -6,8 +6,9 @@ title: Home
 
 &nbsp;
 
-I have a current opening for a PhD position to begin Autumn 2020; see the full advertisement [here](http://life.mcmaster.ca/~brian/evoldir/GradStudentPositions/UBern_Switzerland.PopGenomicsPlantEvolution).
+**I have a current opening for a PhD position to begin Autumn 2020; see the full advertisement [here](http://life.mcmaster.ca/~brian/evoldir/GradStudentPositions/UBern_Switzerland.PopGenomicsPlantEvolution).**
 
+&nbsp;
 
 I am an evolutionary biologist and population geneticist, and currently a postdoc in the [Department of Computational Biology](https://www.unil.ch/dbc/en/home.html) 
 at the University of Lausanne (UNIL), working with [Christophe Dessimoz](https://lab.dessimoz.org/). 
