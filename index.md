@@ -6,7 +6,7 @@ title: Home
 
 &nbsp;
 
-**I have a current opening for a PhD position to begin Autumn 2020; see the full advertisement [CV](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/PhD_Ad.pdf).**
+**I have a current opening for a PhD position to begin Autumn 2020; see the full advertisement [here](https://github.com/kjgilbert/kjgilbert.github.io/raw/master/pdfs/PhD_Ad.pdf).**
 
 &nbsp;
 
