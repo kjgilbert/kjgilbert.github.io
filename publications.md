@@ -12,7 +12,7 @@ title: Publications
 **Gilbert KJ**, Pouyet F, Excoffier L, Peischl S (2020) [Transition from background selection to associative overdominance promotes diversity in regions of low recombination](https://www.sciencedirect.com/science/article/pii/S0960982219315659?dgcid=author). *Current Biology*, 30(1), 101-107.e3  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/748004v1)</sub>  &nbsp;<sub>[Data archive](https://data.mendeley.com/datasets/rgp5xss3x9/1)</sub>
 
-Peischl S, **Gilbert KJ** (2020) [Evolution of dispersal can rescue populations from expansion load](https://www.journals.uchicago.edu/doi/abs/10.1086/705993). *The American Naturalist*, 195(2), 000-000.  
+Peischl S, **Gilbert KJ** (2020) [Evolution of dispersal can rescue populations from expansion load](https://www.journals.uchicago.edu/doi/full/10.1086/705993). *The American Naturalist*, 195(2), 000-000.  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/early/2018/11/30/483883)</sub>
 
 **Gilbert KJ**, Peischl S, Excoffier L (2018) [Mutation load dynamics during environmentally-driven range shifts](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007450). *PLOS Genetics*, 14(9): e1007450. doi:10.1371/journal.pgen.1007450.  
