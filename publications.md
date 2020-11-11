@@ -9,7 +9,10 @@ title: Publications
 
 &nbsp;
 
-Altenhoff AM, Train C-M, **Gilbert KJ**, Mediratta I, Mendes de Farias T, Moi D, Nevers Y, Radoykova H-S, Rossier V, Warwick Vesztrocy A, Glover NM, Dessimoz C (Accepted) [OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order, and more](). *Nucleic Acids Research*  
+**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (Submitted) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)</sub>
+
+Altenhoff AM, Train C-M, **Gilbert KJ**, Mediratta I, Mendes de Farias T, Moi D, Nevers Y, Radoykova H-S, Rossier V, Warwick Vesztrocy A, Glover NM, Dessimoz C (2020) [OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order, and more](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1007/5974092). *Nucleic Acids Research*, doi:10.1093/nar/gkaa1007 
 
 Pouyet F, **Gilbert KJ** (2020) [Towards an improved understanding of molecular evolution: the relative roles of selection, drift, and everything in between](https://evolbiol.peercommunityin.org/public/rec?id=219&reviews=True). *arXiv*, 1909.11490v4, ver. 4 peer-reviewed and recommended by *Peer Community in Evolutionary Biology*  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[ArXiv](https://arxiv.org/abs/1909.11490)</sub>
