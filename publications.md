@@ -9,8 +9,8 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (Submitted) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)
-&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)</sub>
+**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (Submitted) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)</sub> 
 
 Altenhoff AM, Train C-M, **Gilbert KJ**, Mediratta I, Mendes de Farias T, Moi D, Nevers Y, Radoykova H-S, Rossier V, Warwick Vesztrocy A, Glover NM, Dessimoz C (2020) [OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order, and more](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1007/5974092). *Nucleic Acids Research*, doi:10.1093/nar/gkaa1007 
 
