@@ -12,7 +12,7 @@ title: Publications
 **Gilbert KJ**, Moinet A, Peischl S (2022) [Gene surfing of underdominant alleles promotes formation of hybrid zones](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0006). *Philosophical Transactions of the Royal Society B*, 377(1846), 20210006, doi: https://doi.org/10.1098/rstb.2021.0006 
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.30.446372v1.abstract)</sub> 
 
-**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (2022) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://academic.oup.com/genetics/article-abstract/220/1/iyab166/6383146?redirectedFrom=fulltext&login=false) *Genetics*, 220(1), iyab166, doi: https://doi.org/10.1093/genetics/iyab166 
+**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (2022) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://academic.oup.com/genetics/article-abstract/220/1/iyab166/6383146?redirectedFrom=fulltext&login=false) *Genetics*, 220(1), iyab166, doi: https://doi.org/10.1093/genetics/iyab166  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)</sub> 
 
 Altenhoff AM, Train C-M, **Gilbert KJ**, Mediratta I, Mendes de Farias T, Moi D, Nevers Y, Radoykova H-S, Rossier V, Warwick Vesztrocy A, Glover NM, Dessimoz C (2021) [OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order, and more](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1007/5974092). *Nucleic Acids Research*, 49(D1), D373-379, doi:10.1093/nar/gkaa1007  
