@@ -9,12 +9,15 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (*Submitted*) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)  
+**Gilbert KJ**, Moinet A, Peischl S (2022) [Gene surfing of underdominant alleles promotes formation of hybrid zones](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0006). *Philosophical Transactions of the Royal Society B*, 377(1846), 20210006, doi: https://doi.org/10.1098/rstb.2021.0006 
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.30.446372v1.abstract)</sub> 
+
+**Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (2022) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://academic.oup.com/genetics/article-abstract/220/1/iyab166/6383146?redirectedFrom=fulltext&login=false) *Genetics*, 220(1), iyab166, doi: https://doi.org/10.1093/genetics/iyab166 
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2020.10.26.355446v1)</sub> 
 
-Altenhoff AM, Train C-M, **Gilbert KJ**, Mediratta I, Mendes de Farias T, Moi D, Nevers Y, Radoykova H-S, Rossier V, Warwick Vesztrocy A, Glover NM, Dessimoz C (2020) [OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order, and more](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1007/5974092). *Nucleic Acids Research*, doi:10.1093/nar/gkaa1007 
+Altenhoff AM, Train C-M, **Gilbert KJ**, Mediratta I, Mendes de Farias T, Moi D, Nevers Y, Radoykova H-S, Rossier V, Warwick Vesztrocy A, Glover NM, Dessimoz C (2021) [OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order, and more](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaa1007/5974092). *Nucleic Acids Research*, doi:10.1093/nar/gkaa1007 
 
-Pouyet F, **Gilbert KJ** (2020) [Towards an improved understanding of molecular evolution: the relative roles of selection, drift, and everything in between](https://evolbiol.peercommunityin.org/public/rec?id=219&reviews=True). *arXiv*, 1909.11490v4, ver. 4 peer-reviewed and recommended by *Peer Community in Evolutionary Biology*  
+Pouyet F, **Gilbert KJ** (2021) [Towards an improved understanding of molecular evolution: the relative roles of selection, drift, and everything in between](https://evolbiol.peercommunityin.org/public/rec?id=219&reviews=True). *Peer Community Journal*, 1:e27, doi: https://doi.org/10.24072/pcjournal.16  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[ArXiv](https://arxiv.org/abs/1909.11490)</sub>
 
 **Gilbert KJ**, Pouyet F, Excoffier L, Peischl S (2020) [Transition from background selection to associative overdominance promotes diversity in regions of low recombination](https://www.sciencedirect.com/science/article/pii/S0960982219315659?dgcid=author). *Current Biology*, 30(1), 101-107.e3  
