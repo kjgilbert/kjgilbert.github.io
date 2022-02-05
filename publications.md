@@ -9,7 +9,7 @@ title: Publications
 
 &nbsp;
 
-**Gilbert KJ**, Moinet A, Peischl S (2022) [Gene surfing of underdominant alleles promotes formation of hybrid zones](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0006). *Philosophical Transactions of the Royal Society B*, 377(1846), 20210006, doi: https://doi.org/10.1098/rstb.2021.0006 
+**Gilbert KJ**, Moinet A, Peischl S (2022) [Gene surfing of underdominant alleles promotes formation of hybrid zones](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0006). *Philosophical Transactions of the Royal Society B*, 377(1846), 20210006, doi: https://doi.org/10.1098/rstb.2021.0006  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.30.446372v1.abstract)</sub> 
 
 **Gilbert KJ**, Zdraljevic S, Cook DE, Cutter AD, Andersen EC, Baer CF (2022) [The distribution of mutational effects on fitness in *Caenorhabditis elegans* inferred from standing genetic variation](https://academic.oup.com/genetics/article-abstract/220/1/iyab166/6383146?redirectedFrom=fulltext&login=false) *Genetics*, 220(1), iyab166, doi: https://doi.org/10.1093/genetics/iyab166  
