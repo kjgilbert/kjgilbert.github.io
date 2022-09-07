@@ -9,6 +9,9 @@ title: Publications
 
 &nbsp;
 
+Roesti M, **Gilbert KJ**, Samuk K (2022) [Chromosomal inversions can limit adaptation to new environments](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16609). *Molecular Ecology*, 31(17), 4435-4439, doi: https://doi.org/10.1111/mec.16609  
+&nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2022.05.02.490344v1)</sub> 
+
 **Gilbert KJ**, Moinet A, Peischl S (2022) [Gene surfing of underdominant alleles promotes formation of hybrid zones](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2021.0006). *Philosophical Transactions of the Royal Society B*, 377(1846), 20210006, doi: https://doi.org/10.1098/rstb.2021.0006  
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint](https://www.biorxiv.org/content/10.1101/2021.05.30.446372v1.abstract)</sub> 
 

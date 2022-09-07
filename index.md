@@ -8,8 +8,8 @@ title: Home
 
 
 I am an evolutionary biologist and population geneticist, and currently an [SNSF Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) 
-Fellow in the [Institute of Plant Sciences](http://www.ips.unibe.ch/) 
-at the University of Bern.
+Fellow in the [Department of Biology](https://www.unifr.ch/bio/en/groups/gilbert/) 
+at the University of Fribourg, Switzerland.
 
 I have previously been a postdoc in the [Department of Computational Biology](https://www.unil.ch/dbc/en/home.html) 
 at the University of Lausanne (UNIL), working with [Christophe Dessimoz](https://lab.dessimoz.org/), 
@@ -26,7 +26,7 @@ at the University of Toronto.
 I received my PhD in the department of [Zoology](http://www.zoology.ubc.ca/) at the [University of British Columbia](http://www.ubc.ca/), working with [Mike Whitlock](http://www.zoology.ubc.ca/person/whitlock).
 
 **Contact me at kgilbert@zoology.ubc.ca**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **or kimberly.gilbert@ips.unibe.ch**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **or kimberly.gilbert@unifr.ch**  
 
 &nbsp;
 
