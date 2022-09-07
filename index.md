@@ -9,7 +9,7 @@ title: Home
 
 I am an evolutionary biologist and population geneticist, and currently an [SNSF Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) 
 Fellow in the [Department of Biology](https://www.unifr.ch/bio/en/groups/gilbert/) 
-at the University of Fribourg, Switzerland.
+at the University of Fribourg.
 
 I have previously been a postdoc in the [Department of Computational Biology](https://www.unil.ch/dbc/en/home.html) 
 at the University of Lausanne (UNIL), working with [Christophe Dessimoz](https://lab.dessimoz.org/), 
