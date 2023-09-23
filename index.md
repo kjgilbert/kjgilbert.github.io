@@ -25,8 +25,8 @@ at the University of Toronto.
 
 I received my PhD in the department of [Zoology](http://www.zoology.ubc.ca/) at the [University of British Columbia](http://www.ubc.ca/), working with [Mike Whitlock](http://www.zoology.ubc.ca/person/whitlock).
 
-**Contact me at kgilbert@zoology.ubc.ca**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **or kimberly.gilbert@unifr.ch**  
+**Contact me at kimberly.gilbert@unifr.ch**  
+<!--- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **or kimberly.gilbert@unifr.ch**  --->
 
 &nbsp;
 
