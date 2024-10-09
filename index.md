@@ -7,11 +7,12 @@ title: Home
 &nbsp;
 
 
-I am an evolutionary biologist and population geneticist, and currently an [SNSF Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) 
-Fellow in the [Department of Biology](https://www.unifr.ch/bio/en/groups/gilbert/) 
-at the University of Fribourg.
 
-I have previously been a postdoc in the [Department of Computational Biology](https://www.unil.ch/dbc/en/home.html) 
+I am a data scientist at the University of Bern, in the [Clinical Trials Unit](https://www.ispm.unibe.ch/research/research_support/ctu_bern/index_eng.html) within the Department of Clinical Research. I have previously been a researcher in evolutionary biology and population genetics, working on simulation and theory work as well as empirical plant genomics.
+
+My most recent position was as an [SNSF Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) 
+Fellow in the [Department of Biology](https://www.unifr.ch/bio/en/groups/gilbert/) 
+at the University of Fribourg. I supervised and graduated my first and best and last doctoral student, [Dr. Leo Zeitler](https://scholar.google.de/citations?user=e-uwjOAAAAAJ&hl=de) as a Junior Group Leader. I had previously been a postdoc in the [Department of Computational Biology](https://www.unil.ch/dbc/en/home.html) 
 at the University of Lausanne (UNIL), working with [Christophe Dessimoz](https://lab.dessimoz.org/), 
 an [EMBO](http://www.embo.org/) 
 long-term postdoctoral fellow in the [Institute of Ecology and Evolution](http://www.iee.unibe.ch/index_eng.html) 
