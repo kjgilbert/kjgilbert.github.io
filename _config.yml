@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Kimberly Gilbert, PhD
-tagline:          'Data Scientist'
-description:      'Data Scientist'
+title:            Kimberly Gilbert
+tagline:          'PhD, Data Scientist'
+description:      'PhD, Data Scientist'
 url:              http://kjgilbert/github.io
 
 author:
