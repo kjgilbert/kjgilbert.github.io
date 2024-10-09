@@ -4,16 +4,16 @@ title: Research
 ---
 
 
-My research focuses on the impact complex demographic histories have on evolutionary processes 
+Currently as a data scientist in clinical trials research, I develop R packages and shiny apps for interactive work in clinical data. I build and maintain databases in REDCap and SecuTrial, and enjoy all the fun aspects of data wrangling and data analysis and presentation.
+
+My previous research focused on the impact complex demographic histories have on evolutionary processes 
 through time and space. The interactions of mutation, gene flow, genetic drift, and selection 
-can be greatly altered in non-equilibrium scenarios. I aim to study these processes through a 
+can be greatly altered in non-equilibrium scenarios. I studied these processes through a 
 combination of theoretical and empirical approaches to inform our understanding of local adaptation, 
 mutation load, evolution of recombination modifiers, and the distribution of fitness effects for 
 new mutations (DFE).
 
-A portion of my research is devoted to methods testing and development where I have 
-worked on methods for *Q<sub>ST</sub>*-*F<sub>ST</sub>* comparisons and investigated the biases 
-associated with evolutionary inference approaches through analysis of simulated data, 
+A portion of my research was devoted to methods testing and development where I worked on methods for *Q<sub>ST</sub>*-*F<sub>ST</sub>* comparisons and investigated the biases associated with evolutionary inference approaches through analysis of simulated data, 
 including inference of the DFE and estimation of effective population size.
 
 
@@ -35,9 +35,9 @@ and [publications](http://kjgilbert.github.io/publications/) for further informa
 #### Other Projects and Collaborations
 
 I maintain an active interest in many other facets of science, biology, and population 
-genetics which I enjoy exploring with collaborators.
+genetics which I enjoyed exploring with collaborators.
 
-Several current projects include:
+Several side projects included:
 
 - The role of data accessibility and archiving in scientific research and reproducibility 
 with the [UBC reproducibility group](http://www.zoology.ubc.ca/~repro/UBC_Reproducibility_Group/Welcome.html)
@@ -52,4 +52,5 @@ structured metapopulation of *Silene latifolia*
 - Genetic analysis of metapopulation processes in the *Silene-Microbotryum* host-pathogen 
 system.
 --->
+
 
