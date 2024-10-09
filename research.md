@@ -4,7 +4,7 @@ title: Research
 ---
 
 
-Currently as a data scientist in clinical trials research, I develop R packages and shiny apps for interactive work in clinical data. I build and maintain databases in REDCap and SecuTrial, and enjoy all the fun aspects of data wrangling and data analysis and presentation.
+Currently as a data scientist in clinical trial research, I develop R packages and shiny apps for interactive work in clinical data. I build and maintain databases in REDCap and SecuTrial, and enjoy all the fun aspects of data wrangling and data analysis and presentation.
 
 My previous research focused on the impact complex demographic histories have on evolutionary processes 
 through time and space. The interactions of mutation, gene flow, genetic drift, and selection 
