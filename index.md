@@ -8,7 +8,7 @@ title: Home
 
 
 
-I am a data scientist at the University of Bern, in the [Clinical Trials Unit](https://www.ispm.unibe.ch/research/research_support/ctu_bern/index_eng.html) within the Department of Clinical Research. I have previously been a researcher in evolutionary biology and population genetics, working on simulation and theory work as well as empirical plant genomics.
+I am a data scientist at the University of Bern, in the [Clinical Trials Unit](https://www.ispm.unibe.ch/research/research_support/ctu_bern/index_eng.html) within the Department of Clinical Research. I have previously been a researcher in evolutionary biology and population genetics, working on simulation and theory as well as empirical plant genomics.
 
 My most recent position was as an [SNSF Ambizione](http://www.snf.ch/en/funding/careers/ambizione/Pages/default.aspx) 
 Fellow in the [Department of Biology](https://www.unifr.ch/bio/en/groups/gilbert/) 
