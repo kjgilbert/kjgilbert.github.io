@@ -9,7 +9,7 @@ title: Publications
 
 &nbsp;
 
-Zeitler L, **Gilbert KJ** (Submitted) [Using runs of homozygosity and machine learning to disentangle sources of inbreeding and infer self-fertilization rates](https://www.biorxiv.org/content/10.1101/2024.02.20.581206v1). *BiorXiv*, doi: https://www.biorxiv.org/content/10.1101/2024.02.20.581206v1   
+Zeitler L, **Gilbert KJ** (2024) [Using runs of homozygosity and machine learning to disentangle sources of inbreeding and infer self-fertilization rates](https://academic.oup.com/gbe/article/16/7/evae139/7700294). *Genome Biology and Evolution*, 16(7), evae139, doi: https://doi.org/10.1093/gbe/evae139
 &nbsp;&nbsp;&nbsp;&nbsp; <sub>[Preprint]([https://www.biorxiv.org/content/10.1101/2024.02.20.581206v1](https://www.biorxiv.org/content/10.1101/2024.02.20.581206v1))</sub> 
 
 Zeitler L, Parisod C, **Gilbert KJ** (2023) [Purging due to self-fertilization does not prevent accumulation of expansion load](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010883). *PLOS Genetics*, 19(9), e1010883, doi: https://doi.org/10.1371/journal.pgen.1010883  
